@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Todo from './components/todo/Todo';
 
 function App() {
   return (
-    <div className="App">
-   
-    </div>
+   <>
+      <Todo/>
+   </>
   );
 }
 
