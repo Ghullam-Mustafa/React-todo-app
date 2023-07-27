@@ -1,4 +1,5 @@
 import React from 'react'
+import '../todo/Todo.css'
 
 export default function Todo() {
   return (
@@ -11,7 +12,7 @@ export default function Todo() {
             <button> + </button>
 
             <ol>
-                <li></li>
+                <li>ali</li>
             </ol>
         </div>
     </div>
