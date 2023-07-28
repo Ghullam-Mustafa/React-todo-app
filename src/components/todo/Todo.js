@@ -30,7 +30,7 @@ export default function Todo() {
 
     return (
         <div className="bg">
-            <div className=" container ">
+            <div className="container ">
                 <div className="row main_div">
                     <div className=" col-lg-3 col-md-6 col-sm-12 my-5">
                         <div class="card center_div " style={{ width: '20rem' , }}>
