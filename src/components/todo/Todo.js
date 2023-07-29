@@ -36,7 +36,7 @@ export default function Todo() {
                         <div class="card center_div " style={{ width: '20rem' , }}>
                             <div class="card-body ">
                                 <br />
-                                <h1>ToDo List</h1>
+                                {/* <h1>ToDo List</h1> */}
                                 <br />
                                 <input type="text" placeholder='Add a Items' value={inputList} onChange={itemEvent} />
                                 <button className='btn btn1 rounded-circle mx-3' onClick={listOfItems} > + </button>
